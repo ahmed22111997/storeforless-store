@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Us — StoreForLess</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="/index.html"><span class="tag-dot"></span>StoreForLess</a>
+    <nav class="main-nav">
+      <a href="/index.html">Home</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+<div class="legal">
+  <h1>Contact Us</h1>
+  <div id="legal-root"></div>
+  <p style="margin-top:20px;">Email us at <strong id="contact-email">hello@yourdomain.com</strong></p>
+</div>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-bottom">
+      <span>© 2026 StoreForLess. All rights reserved.</span>
+      <span><a href="/privacy-policy.html">Privacy</a> · <a href="/terms.html">Terms</a> · <a href="/affiliate-disclosure.html">Disclosure</a></span>
+    </div>
+  </div>
+</footer>
+<script src="/js/app.js"></script>
+<script>
+  initLegalPage('/content/pages/contact.json', 'legal-root');
+  loadJSON('/content/pages/contact.json').then(d => {
+    if (d && d.email) document.getElementById('contact-email').textContent = d.email;
+  });
+</script>
+</body>
+</html>
