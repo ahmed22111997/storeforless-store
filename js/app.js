@@ -165,3 +165,23 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.addEventListener('click', () => nav.classList.toggle('open'));
   }
 });
+// ═══ MOBILE NAV TOGGLE ═══
+document.addEventListener('DOMContentLoaded', function () {
+  const btn = document.getElementById('mobile-menu-btn');
+  const nav = document.querySelector('.main-nav');
+
+  if (btn && nav) {
+    btn.addEventListener('click', function () {
+      nav.classList.toggle('nav-open');
+      const isOpen = nav.classList.contains('nav-open');
+      btn.setAttribute('aria-expanded', isOpen);
+    });
+
+    // اقفل القائمة لو المستخدم دوس بره أي حتة فيها
+    document.addEventListener('click', function (e) {
+      if (!nav.contains(e.target) && !btn.contains(e.target)) {
+        nav.classList.remove('nav-open');
+      }
+    });
+  }
+});
