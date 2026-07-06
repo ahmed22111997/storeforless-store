@@ -188,3 +188,49 @@ footer.site-footer { background: var(--ink); color: #B8C2DE; margin-top: 60px; p
 
 /* Focus visibility */
 a:focus-visible, button:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+/* ═══ MOBILE NAV FIX ═══ */
+@media (max-width: 768px) {
+  .header-row {
+    position: relative;
+    flex-wrap: wrap;
+  }
+
+  .mobile-menu-btn {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 1001;
+  }
+
+  .main-nav {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #ffffff; /* غيّر اللون على حسب هوية الموقع */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    z-index: 1000;
+  }
+
+  .main-nav.nav-open {
+    display: flex;
+  }
+
+  .main-nav a {
+    padding: 14px 20px;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+@media (min-width: 769px) {
+  .mobile-menu-btn {
+    display: none;
+  }
+  .main-nav {
+    display: flex;
+  }
+}
