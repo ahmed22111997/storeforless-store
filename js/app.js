@@ -157,3 +157,11 @@ async function initFooterCategories() {
     `<a href="/category.html?cat=${encodeURIComponent(c.slug)}">${c.title}</a>`
   ).join('');
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('mobile-menu-btn');
+  const nav = document.querySelector('nav.main-nav');
+  if (btn && nav) {
+    btn.addEventListener('click', () => nav.classList.toggle('open'));
+  }
+});
