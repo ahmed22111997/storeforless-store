@@ -1,0 +1,80 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# After deploying, enable "Identity" + "Git Gateway" in Netlify site settings,
+# then invite yourself as a user under Identity. That login protects this panel.
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "products"
+    label: "Products (Deals)"
+    folder: "content/products"
+    create: true
+    format: "json"
+    slug: "{{slug}}"
+    summary: "{{title}} — {{discount_percent}}% off ({{category}})"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug (URL, no spaces)", name: "slug", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Electronics", "Fashion", "Home & Kitchen", "Beauty & Personal Care", "Watches & Jewelry", "Sports & Outdoors", "Toys & Kids", "Pet Supplies", "Books", "Travel & Luggage"] }
+      - { label: "Image URL", name: "image", widget: "image" }
+      - { label: "Original Price (USD)", name: "price_original", widget: "number", value_type: "float" }
+      - { label: "Deal Price (USD)", name: "price_now", widget: "number", value_type: "float" }
+      - { label: "Discount % (auto-shown on badge)", name: "discount_percent", widget: "number" }
+      - label: "Affiliate Network"
+        name: "affiliate_network"
+        widget: "select"
+        options: ["Amazon Associates", "Awin", "CJ Affiliate", "Impact", "Manual/Other"]
+        default: "Amazon Associates"
+      - { label: "Affiliate Link (your tracked URL)", name: "affiliate_url", widget: "string" }
+      - { label: "Star Rating (0–5)", name: "rating", widget: "number", value_type: "float", required: false }
+      - { label: "Short Description (shows on card)", name: "short_description", widget: "string" }
+      - { label: "Full Description", name: "description", widget: "markdown" }
+      - { label: "Featured on Homepage", name: "featured", widget: "boolean", default: false }
+      - { label: "Ships To (countries, blank = worldwide)", name: "ships_to", widget: "string", required: false }
+      - { label: "Date Added", name: "date_added", widget: "datetime" }
+
+  - name: "categories"
+    label: "Categories"
+    folder: "content/categories"
+    create: true
+    format: "json"
+    slug: "{{slug}}"
+    fields:
+      - { label: "Name", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Icon (emoji or short label)", name: "icon", widget: "string" }
+      - { label: "Cover Image URL", name: "image", widget: "image", required: false }
+
+  - name: "pages"
+    label: "Site Pages (Legal / About)"
+    files:
+      - label: "About Us"
+        name: "about"
+        file: "content/pages/about.json"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact Us"
+        name: "contact"
+        file: "content/pages/contact.json"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Contact Email", name: "email", widget: "string" }
+      - label: "Privacy Policy"
+        name: "privacy"
+        file: "content/pages/privacy.json"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Terms of Service"
+        name: "terms"
+        file: "content/pages/terms.json"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Affiliate Disclosure"
+        name: "disclosure"
+        file: "content/pages/disclosure.json"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
