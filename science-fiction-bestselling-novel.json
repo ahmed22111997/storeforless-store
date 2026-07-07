@@ -1,0 +1,17 @@
+{
+  "title": "Science Fiction Bestselling Novel",
+  "slug": "science-fiction-bestselling-novel",
+  "category": "Books",
+  "image": "https://placehold.co/600x600/14213D/FBF7F0?text=SciFi%2BNovel",
+  "price_original": 17.99,
+  "price_now": 10.49,
+  "discount_percent": 42,
+  "affiliate_network": "Amazon Associates",
+  "affiliate_url": "https://www.amazon.com/s?k=Science+Fiction+Bestselling+Novel&tag=storeforless-21",
+  "rating": 4.5,
+  "short_description": "Award-winning, thought-provoking story.",
+  "description": "An award-winning science fiction novel offering a thought-provoking look at humanity's future.",
+  "featured": false,
+  "ships_to": "",
+  "date_added": "2026-07-08T00:00:00.000Z"
+}

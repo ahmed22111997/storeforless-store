@@ -1,0 +1,17 @@
+{
+  "title": "Automatic Pet Feeder",
+  "slug": "automatic-pet-feeder",
+  "category": "Pet Supplies",
+  "image": "https://placehold.co/600x600/14213D/FBF7F0?text=Pet%2BFeeder",
+  "price_original": 59.99,
+  "price_now": 26.99,
+  "discount_percent": 55,
+  "affiliate_network": "Amazon Associates",
+  "affiliate_url": "https://www.amazon.com/s?k=Automatic+Pet+Feeder&tag=storeforless-21",
+  "rating": 4.3,
+  "short_description": "Programmable meals, voice recorder.",
+  "description": "An automatic pet feeder with programmable meal schedules and a voice recorder for personalized calls.",
+  "featured": false,
+  "ships_to": "",
+  "date_added": "2026-07-08T00:00:00.000Z"
+}
