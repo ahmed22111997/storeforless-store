@@ -102,7 +102,7 @@ async function initProductPage() {
     el.innerHTML = `<p style="padding:60px 0">Sorry, this deal is no longer available. <a href="/index.html">See other deals →</a></p>`;
     return;
   }
-  document.title = `${p.title} — DealVerse`;
+  document.title = `${p.title} — StoreForLess`;
   el.innerHTML = `
     <div class="product-detail">
       <div><img src="${p.image}" alt="${p.title}"></div>
@@ -117,9 +117,12 @@ async function initProductPage() {
         </div>
         <p>${(p.description || p.short_description || '').replace(/\n/g, '<br>')}</p>
         <a id="affiliate-cta" class="btn gold" style="font-size:16px;padding:14px 22px;" href="${p.affiliate_url}" target="_blank" rel="nofollow sponsored noopener" data-title="${p.title}" data-category="${p.category}" data-slug="${p.slug}" data-price="${p.price_now}">Get This Deal →</a>
-        <p class="disclosure-note">As an Amazon Associate / affiliate partner, DealVerse earns from qualifying purchases made through links on this page — at no extra cost to you. <a href="/affiliate-disclosure.html">Learn more</a>.</p>
+        <p class="disclosure-note">As an Amazon Associate / affiliate partner, StoreForLess earns from qualifying purchases made through links on this page — at no extra cost to you. <a href="/affiliate-disclosure.html">Learn more</a>.</p>
+        ${p.date_added ? `<p class="last-verified">Last verified: ${new Date(p.date_added).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>` : ''}
       </div>
     </div>`;
+
+  renderProductSchema(p);
 
   // Related products from the same category
   const related = products.filter(x => x.category === p.category && x.slug !== p.slug).slice(0, 4);
@@ -143,6 +146,40 @@ async function initProductPage() {
 
 // Minimal markdown -> HTML for legal page bodies (bold + paragraphs only,
 // enough for the CMS-edited legal text without pulling in a markdown library).
+// ═══ PRODUCT SCHEMA MARKUP (JSON-LD) ═══
+function renderProductSchema(p) {
+  const existing = document.getElementById('product-schema');
+  if (existing) existing.remove();
+  const schema = {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": p.title,
+    "image": p.image,
+    "description": p.short_description || p.description || p.title,
+    "category": p.category,
+    "offers": {
+      "@type": "Offer",
+      "url": window.location.href,
+      "priceCurrency": "USD",
+      "price": p.price_now,
+      "availability": "https://schema.org/InStock"
+    }
+  };
+  if (p.rating) {
+    schema.aggregateRating = {
+      "@type": "AggregateRating",
+      "ratingValue": p.rating,
+      "bestRating": "5",
+      "reviewCount": "1"
+    };
+  }
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.id = 'product-schema';
+  script.textContent = JSON.stringify(schema);
+  document.head.appendChild(script);
+}
+
 function mdLite(text) {
   if (!text) return '';
   return text

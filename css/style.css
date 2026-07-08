@@ -282,3 +282,10 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--gold); outline-
     text-align: center;
   }
 }
+
+/* ═══ LAST VERIFIED DATE ═══ */
+.last-verified {
+  color: var(--ink-light);
+  font-size: 12.5px;
+  margin-top: 10px;
+}
