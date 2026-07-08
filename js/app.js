@@ -12,6 +12,19 @@ function money(n) {
   return '$' + Number(n).toFixed(2);
 }
 
+// Updates (or creates) the page's <meta name="description"> tag so blog post
+// pages get a unique, relevant description for search engines.
+function setMetaDescription(text) {
+  if (!text) return;
+  let tag = document.querySelector('meta[name="description"]');
+  if (!tag) {
+    tag = document.createElement('meta');
+    tag.setAttribute('name', 'description');
+    document.head.appendChild(tag);
+  }
+  tag.setAttribute('content', text.slice(0, 160));
+}
+
 function productCard(p) {
   const link = `/product.html?slug=${encodeURIComponent(p.slug)}`;
   return `
@@ -207,6 +220,57 @@ async function initFooterCategories() {
   el.innerHTML = categories.slice(0, 6).map(c =>
     `<a href="/category.html?cat=${encodeURIComponent(c.slug)}">${c.title}</a>`
   ).join('');
+}
+
+function blogCard(post) {
+  const link = `/blog-post.html?slug=${encodeURIComponent(post.slug)}`;
+  const dateStr = post.date_published ? new Date(post.date_published).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+  return `
+  <div class="card">
+    <div class="body">
+      <span class="cat-label">${post.category || ''}</span>
+      <h3><a href="${link}">${post.title}</a></h3>
+      <p class="desc">${post.excerpt || ''}</p>
+      ${dateStr ? `<span style="color:var(--ink-light);font-size:13px;">${dateStr}</span>` : ''}
+      <a class="btn gold" href="${link}">Read More</a>
+    </div>
+  </div>`;
+}
+
+async function initBlogPage() {
+  const posts = await loadJSON('/data/blog.json');
+  const el = document.getElementById('blog-grid');
+  if (el) {
+    el.innerHTML = posts.length
+      ? posts.map(blogCard).join('')
+      : `<p style="color:var(--ink-light)">No posts yet — check back soon.</p>`;
+  }
+}
+
+async function initBlogPostPage() {
+  const slug = qs('slug');
+  const posts = await loadJSON('/data/blog.json');
+  const post = posts.find(x => x.slug === slug);
+  const el = document.getElementById('blog-post-root');
+  if (!post) {
+    if (el) el.innerHTML = `<p style="padding:40px 0">Sorry, this post is no longer available. <a href="/blog.html">See all posts →</a></p>`;
+    return;
+  }
+  document.title = `${post.title} — StoreForLess`;
+  setMetaDescription(post.excerpt || post.title);
+  const dateStr = post.date_published ? new Date(post.date_published).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
+  if (el) {
+    el.innerHTML = `
+      <span class="cat-label">${post.category || ''}</span>
+      <h1>${post.title}</h1>
+      <div class="updated">${post.author ? post.author + ' · ' : ''}${dateStr}</div>
+      ${mdLite(post.body)}
+    `;
+  }
+
+  const related = posts.filter(x => x.category === post.category && x.slug !== post.slug).slice(0, 3);
+  const relEl = document.getElementById('related-blog-grid');
+  if (relEl) relEl.innerHTML = related.length ? related.map(blogCard).join('') : '';
 }
 
 // ═══ MOBILE NAV TOGGLE ═══

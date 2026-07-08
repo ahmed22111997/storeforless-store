@@ -16,6 +16,11 @@
   to = "/category.html"
   status = 200
 
+[[redirects]]
+  from = "/blog/*"
+  to = "/blog-post.html"
+  status = 200
+
 [[headers]]
   for = "/*"
   [headers.values]

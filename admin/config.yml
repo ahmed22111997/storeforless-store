@@ -49,6 +49,24 @@ collections:
       - { label: "Icon (emoji or short label)", name: "icon", widget: "string" }
       - { label: "Cover Image URL", name: "image", widget: "image", required: false }
 
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "content/blog"
+    create: true
+    format: "json"
+    slug: "{{slug}}"
+    summary: "{{title}} — {{category}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug (URL, no spaces)", name: "slug", widget: "string" }
+      - { label: "Category", name: "category", widget: "select", options: ["Electronics", "Fashion", "Home & Kitchen", "Beauty & Personal Care", "Watches & Jewelry", "Sports & Outdoors", "Toys & Kids", "Pet Supplies", "Books", "Travel & Luggage", "General"] }
+      - { label: "Cover Image URL", name: "cover_image", widget: "image", required: false }
+      - { label: "Excerpt (shows on card)", name: "excerpt", widget: "string" }
+      - { label: "Full Body", name: "body", widget: "markdown" }
+      - { label: "Author", name: "author", widget: "string", default: "StoreForLess Team" }
+      - { label: "Date Published", name: "date_published", widget: "datetime" }
+      - { label: "Featured on Blog Homepage", name: "featured", widget: "boolean", default: false }
+
   - name: "pages"
     label: "Site Pages (Legal / About)"
     files:
