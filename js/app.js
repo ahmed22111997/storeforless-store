@@ -116,7 +116,7 @@ async function initProductPage() {
           <span class="badge" style="position:static;transform:none;">-${p.discount_percent}%</span>
         </div>
         <p>${(p.description || p.short_description || '').replace(/\n/g, '<br>')}</p>
-        <a class="btn gold" style="font-size:16px;padding:14px 22px;" href="${p.affiliate_url}" target="_blank" rel="nofollow sponsored noopener">Get This Deal →</a>
+        <a id="affiliate-cta" class="btn gold" style="font-size:16px;padding:14px 22px;" href="${p.affiliate_url}" target="_blank" rel="nofollow sponsored noopener" data-title="${p.title}" data-category="${p.category}" data-slug="${p.slug}" data-price="${p.price_now}">Get This Deal →</a>
         <p class="disclosure-note">As an Amazon Associate / affiliate partner, DealVerse earns from qualifying purchases made through links on this page — at no extra cost to you. <a href="/affiliate-disclosure.html">Learn more</a>.</p>
       </div>
     </div>`;
@@ -125,6 +125,20 @@ async function initProductPage() {
   const related = products.filter(x => x.category === p.category && x.slug !== p.slug).slice(0, 4);
   const relEl = document.getElementById('related-grid');
   if (relEl) renderGrid(relEl, related);
+
+  // Track affiliate link clicks as a GA4 key event
+  const cta = document.getElementById('affiliate-cta');
+  if (cta && typeof gtag === 'function') {
+    cta.addEventListener('click', () => {
+      gtag('event', 'affiliate_click', {
+        item_name: cta.dataset.title,
+        item_category: cta.dataset.category,
+        item_slug: cta.dataset.slug,
+        value: parseFloat(cta.dataset.price) || 0,
+        currency: 'USD'
+      });
+    });
+  }
 }
 
 // Minimal markdown -> HTML for legal page bodies (bold + paragraphs only,
