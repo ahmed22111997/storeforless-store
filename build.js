@@ -51,3 +51,49 @@ fs.writeFileSync(path.join(outDir, 'blog.json'), JSON.stringify(blogPosts, null,
 console.log(`Built data/products.json (${products.length} products)`);
 console.log(`Built data/categories.json (${categories.length} categories)`);
 console.log(`Built data/blog.json (${blogPosts.length} blog posts)`);
+
+// ---- sitemap.xml ----
+// Regenerated on every build so it always reflects current products,
+// categories, and blog posts — no manual edits needed after CMS changes.
+const SITE_URL = 'https://storeforless.netlify.app';
+const today = new Date().toISOString().slice(0, 10);
+
+function urlEntry(loc, changefreq, priority, lastmod) {
+  return [
+    '  <url>',
+    `    <loc>${SITE_URL}${loc}</loc>`,
+    `    <lastmod>${lastmod || today}</lastmod>`,
+    `    <changefreq>${changefreq}</changefreq>`,
+    `    <priority>${priority}</priority>`,
+    '  </url>'
+  ].join('\n');
+}
+
+const staticEntries = [
+  urlEntry('/', 'daily', '1.0'),
+  urlEntry('/about.html', 'monthly', '0.5'),
+  urlEntry('/faq.html', 'monthly', '0.5'),
+  urlEntry('/contact.html', 'monthly', '0.3'),
+  urlEntry('/blog.html', 'weekly', '0.6'),
+];
+
+const categoryEntries = categories.map(c =>
+  urlEntry(`/category.html?cat=${encodeURIComponent(c.slug)}`, 'weekly', '0.7')
+);
+
+const productEntries = products.map(p =>
+  urlEntry(`/product.html?slug=${encodeURIComponent(p.slug)}`, 'weekly', '0.8', (p.date_added || today).slice(0, 10))
+);
+
+const blogEntries = blogPosts.map(b =>
+  urlEntry(`/blog-post.html?slug=${encodeURIComponent(b.slug)}`, 'monthly', '0.6', (b.date_published || today).slice(0, 10))
+);
+
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${[...staticEntries, ...categoryEntries, ...productEntries, ...blogEntries].join('\n')}
+</urlset>
+`;
+
+fs.writeFileSync(path.join(__dirname, 'sitemap.xml'), sitemap);
+console.log(`Built sitemap.xml (${staticEntries.length} static + ${categories.length} categories + ${products.length} products + ${blogPosts.length} blog posts)`);

@@ -25,6 +25,24 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://storeforless.netlify.app/blog.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/category.html?cat=beauty</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/category.html?cat=books</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://storeforless.netlify.app/category.html?cat=electronics</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,7 +61,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://storeforless.netlify.app/category.html?cat=beauty</loc>
+    <loc>https://storeforless.netlify.app/category.html?cat=pet-supplies</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -55,3009 +73,3093 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://storeforless.netlify.app/category.html?cat=toys-kids</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/category.html?cat=travel-luggage</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://storeforless.netlify.app/category.html?cat=watches-jewelry</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://storeforless.netlify.app/product.html?slug=mens-canvas-sneakers</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/product.html?slug=wireless-earbuds-pro</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/product.html?slug=stainless-cookware-set</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/product.html?slug=minimalist-steel-watch</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://storeforless.netlify.app/product.html?slug=10-piece-makeup-brush-set-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=10-piece-makeup-brush-set-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=10-piece-makeup-brush-set-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=10-piece-makeup-brush-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1000-piece-jigsaw-puzzle-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1000-piece-jigsaw-puzzle-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1000-piece-jigsaw-puzzle-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1000-piece-jigsaw-puzzle</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1080p-webcam-2-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1080p-webcam-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1080p-webcam-fast-charging-model</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=1080p-webcam-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=2-person-camping-tent-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=2-person-camping-tent-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=4k-action-camera</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=6-quart-digital-air-fryer-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=6-quart-digital-air-fryer</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=8-piece-knife-set-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=8-piece-knife-set-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=8-piece-knife-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-dog-collar-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-dog-collar-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-dog-collar-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-dumbbell-set-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://storeforless.netlify.app/product.html?slug=adjustable-dumbbell-set</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-kettlebell-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-kettlebell-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-kettlebell-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-laptop-stand-2-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-laptop-stand-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=adjustable-spice-rack-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=air-fryer-6-quart-digital</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ankle-crew-socks-6-pack-classic-fit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=anti-theft-travel-backpack-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=anti-theft-travel-backpack-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=anti-theft-travel-backpack-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=anti-theft-travel-backpack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-pet-feeder-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-pet-feeder-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-pet-feeder</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-pet-water-fountain-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-pet-water-fountain-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-skeleton-watch-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-skeleton-watch-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=automatic-skeleton-watch-gift-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bamboo-cutting-board-set-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bamboo-cutting-board-set-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bamboo-cutting-board-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=beaded-bracelet-stack-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=best-selling-mystery-thriller-novel-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=best-selling-mystery-thriller-novel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bike-helmet-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bike-helmet</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=blackout-curtains-2-panel-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=blackout-curtains-2-panel-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=blackout-curtains-2-panel-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=blackout-curtains-2-panel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bluetooth-tracker-tag-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bluetooth-tracker-tag-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=bluetooth-tracker-tag</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=body-lotion-set-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=body-lotion-set-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=body-lotion-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=body-scrub-exfoliating-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=building-blocks-set-500-piece</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=business-strategy-book-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=business-strategy-book-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=business-strategy-book-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=business-strategy-book</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=camping-tent-4-person-waterproof</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=car-dash-cam-fast-charging-model</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=car-dash-cam-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=car-dash-cam-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=car-dash-cam</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cat-litter-box-enclosed</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cat-scratching-post-tower-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cat-scratching-post-tower-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cat-scratching-post-tower</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ceramic-coffee-mug-set-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ceramic-coffee-mug-set-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ceramic-coffee-mug-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ceramic-hair-straightener-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ceramic-hair-straightener-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ceramic-hair-straightener</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ceramic-knife-set-6-piece</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=charm-bracelet-set-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=charm-bracelet-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=children-s-picture-book-set-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=children-s-picture-book-set-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=children-s-picture-book-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=childrens-picture-book-collection</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=chino-trousers-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=chino-trousers-unisex</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=chino-trousers</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-baseball-cap-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-baseball-cap-classic-fit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-baseball-cap-unisex</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-baseball-cap</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-building-bricks-set-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-building-bricks-set-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-building-bricks-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-leather-strap-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-literature-collection-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-literature-collection-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=classic-literature-collection-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=compact-sleeping-bag-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=compact-sleeping-bag-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=compact-travel-umbrella-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=compact-travel-umbrella-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=compression-packing-bags-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=compression-packing-bags-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=contemporary-romance-novel-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=contemporary-romance-novel-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cookbook-for-beginners-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cookbook-for-beginners-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cookbook-for-beginners-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cookbook-for-beginners</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://storeforless.netlify.app/product.html?slug=cookbook_-easy-weeknight-dinners</loc>
+    <loc>https://storeforless.netlify.app/product.html?slug=cookbook%3A-easy-weeknight-dinners</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cordless-hair-trimmer-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cordless-hair-trimmer</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cotton-crewneck-t-shirt-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cotton-crewneck-t-shirt-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cotton-crewneck-t-shirt</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=covered-cat-litter-box-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=covered-cat-litter-box-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=covered-cat-litter-box</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cozy-dog-sweater-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=crossbody-shoulder-bag-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=crossbody-shoulder-bag-classic-fit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=crossbody-shoulder-bag-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=crossbody-shoulder-bag-unisex</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=crossbody-shoulder-bag</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cubic-zirconia-stud-earrings-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cubic-zirconia-stud-earrings-gift-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cubic-zirconia-stud-earrings</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=cycling-helmet-with-led-light</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=dog-puzzle-feeder-toy</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=dog-training-clicker-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=electric-facial-cleansing-brush</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=electric-kettle-1-7l-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=electric-kettle-1-7l-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=electric-kettle-stainless-steel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=electric-nail-drill-kit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=electric-stand-mixer</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=electric-toothbrush-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=everyday-canvas-backpack-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=everyday-canvas-backpack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=exfoliating-body-scrub-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=family-board-game-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=family-board-game-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=family-board-game</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fantasy-adventure-novel-series-box-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fast-wireless-charger-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fast-wireless-charger-fast-charging-model</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fast-wireless-charger</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fishing-rod-and-reel-combo</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fitness-tracker-band-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fitness-tracker-band-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fitness-tracker-band</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fizzing-bath-bombs-6-pack-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fizzing-bath-bombs-6-pack-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=fizzing-bath-bombs-6-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=foam-roller-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=foam-roller-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=foam-roller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=foldable-travel-duffel-bag-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=foldable-travel-duffel-bag</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=foldable-treadmill-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=folding-camping-chair-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=folding-camping-chair-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=folding-camping-chair</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=gaming-controller-2-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=gaming-controller-fast-charging-model</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=gaming-controller-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=gentle-facial-cleanser</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=genuine-leather-belt-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=genuine-leather-belt-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=glass-storage-containers-10-pack-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=graphic-tee-3-pack-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=graphic-tee-3-pack-unisex</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=graphic-tee-3-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=gym-duffel-bag-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=gym-duffel-bag-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hair-dryer-ionic-ceramic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hair-straightener-ceramic-flat-iron</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hardshell-carry-on-suitcase-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hardshell-carry-on-suitcase-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hardshell-carry-on-suitcase-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hardshell-carry-on-suitcase</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hardside-spinner-carry-on-suitcase</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=high-speed-blender-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hiking-backpack-40l</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hiking-daypack-30l-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hiking-daypack-30l-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hiking-daypack-30l-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=historical-fiction-bestseller-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=historical-fiction-bestseller-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=historical-fiction-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hyaluronic-acid-moisturizer</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hydrating-face-mask-set-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hydrating-face-mask-set-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hydrating-face-mask-set-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hydrating-face-mask-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hydrating-face-moisturizer-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=hydrating-face-moisturizer-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=inflatable-travel-footrest-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=inflatable-travel-footrest-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=insulated-sports-water-bottle-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=insulated-sports-water-bottle-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=insulated-sports-water-bottle-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=insulated-sports-water-bottle</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=insulated-water-bottle-32oz</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interactive-cat-laser-toy</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interactive-cat-wand-toy-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interactive-cat-wand-toy-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interactive-cat-wand-toy</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interactive-dog-toy-set-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interchangeable-watch-band-set-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interchangeable-watch-band-set-gift-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=interchangeable-watch-band-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ionic-hair-dryer-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ionic-hair-dryer-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=ionic-hair-dryer</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kids-art-and-craft-supply-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kids-art-supplies-set-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kids-art-supplies-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kids-drawing-tablet-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kids-drone-with-camera</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kids-educational-tablet</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kids-scooter-with-led-wheels</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kitchen-scale-digital-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kitchen-scale-digital-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=kitchen-scale-digital</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=knit-winter-gloves-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=knit-winter-gloves-unisex</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=layered-pendant-necklace-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=layered-pendant-necklace</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=led-desk-lamp-with-usb-charging</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=led-facial-light-therapy-mask</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=led-makeup-mirror-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=led-makeup-mirror-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=led-ring-light-2-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=led-ring-light-fast-charging-model</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=lightweight-rolling-duffel-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=lightweight-rolling-duffel-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=lightweight-rolling-duffel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=lightweight-windbreaker-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=luggage-scale-digital-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=luggage-scale-digital-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=magnetic-building-blocks-set-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=magnetic-building-blocks-set-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=magnetic-building-blocks-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=makeup-brush-set-12-piece</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mechanical-gaming-keyboard-rgb</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mechanical-keyboard-2-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mechanical-keyboard-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mechanical-keyboard-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mechanical-keyboard</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=memory-foam-bed-pillow-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=men-s-chronograph-watch-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=men-s-chronograph-watch-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=men-s-chronograph-watch-gift-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=men-s-chronograph-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=men-s-shaving-kit-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=men-s-shaving-kit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://storeforless.netlify.app/product.html?slug=mens-canvas-sneakers</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mens-chronograph-sports-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mens-classic-denim-jacket</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mens-genuine-leather-belt</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mens-graphic-print-hoodie</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mens-leather-strap-automatic-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mens-slim-fit-chino-pants</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mens-stainless-steel-cufflinks</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=merino-wool-scarf-classic-fit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=merino-wool-scarf-unisex</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=merino-wool-scarf</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mindfulness-and-meditation-guide</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mindfulness-meditation-guide-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mindfulness-meditation-guide-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mindfulness-meditation-guide</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mini-portable-projector</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mini-projector-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=mini-projector-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=minimalist-analog-watch-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=minimalist-analog-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://storeforless.netlify.app/product.html?slug=minimalist-steel-watch</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=multi-level-cat-tree-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=multi-level-cat-tree</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=multi-purpose-utensil-set-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=multi-purpose-utensil-set-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=nail-clipper-grooming-kit-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=nail-clipper-grooming-kit-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=neck-pillow-memory-foam-travel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=noise-cancelling-headphones</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=noise-cancelling-over-ear-headphones</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-slip-extra-thick-yoga-mat-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-slip-extra-thick-yoga-mat</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-slip-pet-feeding-mat-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-slip-pet-feeding-mat-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-slip-pet-feeding-mat-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-slip-pet-feeding-mat</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-stick-frying-pan-set-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-stick-frying-pan-set-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-stick-frying-pan-set-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-stick-frying-pan-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-toxic-slime-kit-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=non-toxic-slime-kit-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=nonstick-frying-pan-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=orthopedic-dog-bed</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=orthopedic-pet-bed-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=orthopedic-pet-bed-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=orthopedic-pet-bed</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=packing-cubes-6-set-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=packing-cubes-6-set-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=packing-cubes-6-set-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=packing-cubes-6-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pearl-drop-earrings-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pearl-drop-earrings-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pearl-drop-earrings</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=personal-finance-guide-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=personal-finance-guide-book</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=personal-finance-guide</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pet-grooming-vacuum-kit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pet-water-fountain-dispenser</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=play-kitchen-set-for-toddlers</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=plush-interactive-puppy-toy</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=poetry-collection-anthology-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=poetry-collection-anthology-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=poetry-collection-anthology-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=poetry-collection-anthology</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=polarized-aviator-sunglasses</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=polarized-sunglasses-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=polarized-sunglasses-classic-fit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=polarized-sunglasses-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=polarized-sunglasses</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pop-up-play-tent-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pop-up-play-tent-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=pop-up-play-tent-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-bluetooth-speaker-waterproof</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-camping-hammock</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-luggage-scale-digital</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-power-bank-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-power-bank-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-ssd-1tb</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-ssd-drive-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-ssd-drive-fast-charging-model</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=portable-ssd-drive-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=productivity-and-time-management-book</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=productivity-habits-book-bestseller</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=productivity-habits-book-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=productivity-habits-book</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=quick-dry-sports-towel-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=quick-dry-sports-towel-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=quick-dry-sports-towel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=remote-control-race-car</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=remote-control-stunt-car</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=resistance-bands-set-5-piece</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=resistance-bands-set-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=resistance-bands-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=retinol-anti-aging-night-cream</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=retractable-dog-leash-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=retractable-dog-leash-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=retractable-dog-leash</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=reusable-dog-training-pads-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=reusable-dog-training-pads-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=reusable-food-storage-bags-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=reusable-food-storage-bags-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=reusable-food-storage-bags-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=reusable-food-storage-bags</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=rfid-blocking-passport-wallet</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=rfid-blocking-travel-wallet-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=rfid-blocking-travel-wallet</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=robot-vacuum-cleaner</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=rose-gold-ring-set-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=rose-gold-ring-set-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=rose-gold-ring-set-gift-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=rose-gold-ring-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=running-sneakers-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=running-sneakers-classic-fit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sci-fi-adventure-novel-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sci-fi-adventure-novel-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sci-fi-adventure-novel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=science-fiction-bestselling-novel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=self-cleaning-pet-grooming-brush-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=self-cleaning-pet-grooming-brush-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=self-cleaning-pet-grooming-brush-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=self-help-habits-book</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=self-improvement-guidebook-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=self-improvement-guidebook</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=silicone-baking-mat-set-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=silicone-baking-mat-set-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=slim-bifold-wallet-classic-fit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=slim-bifold-wallet</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=slim-fit-denim-jacket-casual</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=slim-fit-denim-jacket-unisex</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=smart-hybrid-analog-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=smart-plug-4-pack-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=smart-watch-2-pack</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=smart-watch-fitness-tracker</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=smart-watch-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=soft-plush-teddy-bear-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=soft-plush-teddy-bear-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=soft-plush-teddy-bear-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=soft-plush-teddy-bear</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=soft-sided-pet-carrier-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=soft-sided-pet-carrier-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=soft-sided-pet-carrier-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sonic-electric-toothbrush-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sonic-electric-toothbrush-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=speed-jump-rope-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=speed-jump-rope-heavy-duty</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=speed-jump-rope</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://storeforless.netlify.app/product.html?slug=stainless-cookware-set</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-bracelet-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-bracelet-gift-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-bracelet</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-dish-rack-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-dish-rack-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-dish-rack-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-dog-bowl-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-dog-bowl-durable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-dog-bowl-washable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stainless-steel-dog-bowl</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stem-robot-building-kit</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stem-science-kit-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=stem-science-kit-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sterling-silver-necklace-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sterling-silver-necklace</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=sterling-silver-pendant-necklace</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=strategy-card-game-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=strategy-card-game</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=superhero-action-figure-set-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=superhero-action-figure-set-stem</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=telescopic-fishing-rod-adjustable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=telescopic-fishing-rod-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=tinted-lip-balm-4-pack-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=titanium-wedding-band-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=titanium-wedding-band-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=titanium-wedding-band-ring</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=titanium-wedding-band</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=toddler-balance-bike-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=toddler-balance-bike-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=toddler-balance-bike</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-document-organizer-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-document-organizer-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-document-organizer-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-document-organizer</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-duffel-bag-weekender</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-neck-pillow-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-neck-pillow-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-neck-pillow-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-packing-cubes-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-perfume-atomizer-set-dermatologist-tested</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-perfume-atomizer-set-fragrance-free</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-perfume-atomizer-set-travel-size</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-perfume-atomizer-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-shoe-bags-set-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-shoe-bags-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-toiletry-bag-organizer</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=travel-toiletry-organizer-bag</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=true-crime-story-collection-new-release</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=true-crime-story-collection-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=tsa-approved-luggage-lock-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=tsa-approved-luggage-lock-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=unisex-puffer-vest</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=universal-travel-adapter-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=universal-travel-adapter-lightweight</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=universal-travel-adapter-water-resistant</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=universal-travel-adapter</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=usb-c-hub-7-in-1</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=usb-c-hub-compact</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=vacuum-insulated-water-bottle-dishwasher-safe</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=vacuum-insulated-water-bottle-space-saving</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=vacuum-insulated-water-bottle</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=vintage-style-pocket-watch-classic</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=vintage-style-pocket-watch-everyday</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=vintage-style-pocket-watch-gift-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=vintage-style-pocket-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://storeforless.netlify.app/product.html?slug=vitamin-c-serum</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wireless-charging-pad-3-in-1</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wireless-charging-pad-pro-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://storeforless.netlify.app/product.html?slug=wireless-earbuds-pro</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wireless-gaming-mouse</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wireless-mouse-rechargeable</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=womens-high-waist-leggings</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=womens-knit-cardigan-sweater</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=womens-layered-chain-necklace-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=womens-oversized-denim-jacket</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=womens-pearl-stud-earrings</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=womens-rose-gold-bracelet-watch</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=womens-wrap-midi-dress</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wooden-puzzle-set-for-toddlers</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wooden-shape-puzzle-ages-3</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wooden-shape-puzzle-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wooden-shape-puzzle</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wooden-toy-kitchen-set-educational</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=wooden-toy-kitchen-set</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=yoga-mat-non-slip-extra-thick</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=young-adult-fantasy-novel-paperback-edition</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://storeforless.netlify.app/product.html?slug=young-adult-fantasy-novel</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/product.html?slug=vitamin-c-serum</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/product.html?slug=adjustable-dumbbell-set</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=how-to-tell-if-online-discount-is-real</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=air-fryer-buying-guide-size-wattage</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=best-wireless-earbuds-under-50-2026</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=seasonal-shopping-calendar-best-times-to-buy</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=carry-on-packing-guide-avoid-overpacking</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=how-to-finish-more-books-reading-habits</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=first-time-dog-owner-what-to-buy</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=age-appropriate-toys-developmental-guide</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=home-workout-equipment-what-to-buy-first</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=quartz-vs-automatic-watches-guide</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=skincare-routine-order-basics</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://storeforless.netlify.app/blog-post.html?slug=capsule-wardrobe-without-overspending</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 </urlset>
