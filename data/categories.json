@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Beauty & Personal Care",
+    "slug": "beauty",
+    "icon": "💄"
+  },
+  {
+    "title": "Books",
+    "slug": "books",
+    "icon": "📚"
+  },
+  {
+    "title": "Electronics",
+    "slug": "electronics",
+    "icon": "📱"
+  },
+  {
+    "title": "Fashion",
+    "slug": "fashion",
+    "icon": "👕"
+  },
+  {
+    "title": "Home & Kitchen",
+    "slug": "home-kitchen",
+    "icon": "🏠"
+  },
+  {
+    "title": "Pet Supplies",
+    "slug": "pet-supplies",
+    "icon": "🐾"
+  },
+  {
+    "title": "Sports & Outdoors",
+    "slug": "sports",
+    "icon": "🏋️"
+  },
+  {
+    "title": "Toys & Kids",
+    "slug": "toys-kids",
+    "icon": "🧸"
+  },
+  {
+    "title": "Travel & Luggage",
+    "slug": "travel-luggage",
+    "icon": "🧳"
+  },
+  {
+    "title": "Watches & Jewelry",
+    "slug": "watches-jewelry",
+    "icon": "⌚"
+  }
+]
