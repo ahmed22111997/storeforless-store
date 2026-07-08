@@ -199,3 +199,19 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 });
+
+// ═══ WHATSAPP FLOATING BUTTON ═══
+function initWhatsAppButton() {
+  const phone = '971582763958';
+  const message = encodeURIComponent('Hi! I have a question about StoreForLess.');
+  const a = document.createElement('a');
+  a.href = `https://wa.me/${phone}?text=${message}`;
+  a.className = 'whatsapp-float';
+  a.target = '_blank';
+  a.rel = 'noopener noreferrer';
+  a.setAttribute('aria-label', 'Chat with us on WhatsApp');
+  a.innerHTML = `<svg viewBox="0 0 32 32" width="28" height="28" fill="#fff"><path d="M16.004 3C9.376 3 3.997 8.373 3.997 15c0 2.32.646 4.49 1.77 6.34L3 29l7.86-2.73A11.94 11.94 0 0 0 16.004 27C22.63 27 28 21.627 28 15S22.63 3 16.004 3zm0 21.8c-1.99 0-3.85-.55-5.44-1.5l-.39-.23-4.66 1.62 1.55-4.54-.25-.4A9.7 9.7 0 0 1 5.2 15c0-5.96 4.85-10.8 10.8-10.8S26.8 9.04 26.8 15s-4.85 10.8-10.8 10.8zm5.95-8.1c-.33-.16-1.94-.96-2.24-1.07-.3-.11-.52-.16-.74.16-.22.33-.85 1.07-1.04 1.28-.19.22-.38.25-.71.08-.33-.16-1.38-.51-2.63-1.63-.97-.87-1.63-1.94-1.82-2.27-.19-.33-.02-.5.14-.67.15-.15.33-.38.5-.58.16-.19.22-.33.33-.55.11-.22.05-.41-.03-.58-.08-.16-.74-1.78-1.01-2.44-.27-.64-.54-.55-.74-.56h-.63c-.22 0-.58.08-.88.41-.3.33-1.15 1.12-1.15 2.74s1.18 3.18 1.34 3.4c.16.22 2.32 3.55 5.63 4.98.79.34 1.4.54 1.88.7.79.25 1.51.21 2.08.13.63-.09 1.94-.79 2.21-1.56.27-.77.27-1.43.19-1.56-.08-.14-.3-.22-.63-.38z"/></svg>`;
+  document.body.appendChild(a);
+}
+
+document.addEventListener('DOMContentLoaded', initWhatsAppButton);

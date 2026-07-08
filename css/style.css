@@ -234,3 +234,63 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--gold); outline-
     display: flex;
   }
 }
+
+/* ═══ WHATSAPP FLOATING BUTTON ═══ */
+.whatsapp-float {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 56px;
+  height: 56px;
+  background: #25D366;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.25);
+  z-index: 999;
+  transition: transform 0.15s ease;
+  text-decoration: none;
+}
+.whatsapp-float:hover {
+  transform: scale(1.08);
+}
+@media (max-width: 600px) {
+  .whatsapp-float {
+    bottom: 16px;
+    right: 16px;
+    width: 50px;
+    height: 50px;
+  }
+}
+
+/* ═══ FOUNDER CARD (About page) ═══ */
+.founder-card {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  background: var(--surface, #f7f5f0);
+  border-radius: 16px;
+  padding: 24px;
+  margin: 24px 0;
+}
+.founder-photo {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.founder-info h2 {
+  margin: 0 0 4px;
+}
+.founder-title {
+  color: var(--ink-light, #6b6b6b);
+  margin: 0;
+}
+@media (max-width: 600px) {
+  .founder-card {
+    flex-direction: column;
+    text-align: center;
+  }
+}
