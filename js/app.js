@@ -172,13 +172,6 @@ async function initFooterCategories() {
   ).join('');
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-  const btn = document.getElementById('mobile-menu-btn');
-  const nav = document.querySelector('nav.main-nav');
-  if (btn && nav) {
-    btn.addEventListener('click', () => nav.classList.toggle('open'));
-  }
-});
 // ═══ MOBILE NAV TOGGLE ═══
 document.addEventListener('DOMContentLoaded', function () {
   const btn = document.getElementById('mobile-menu-btn');

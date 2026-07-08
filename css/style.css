@@ -161,29 +161,17 @@ footer.site-footer { background: var(--ink); color: #B8C2DE; margin-top: 60px; p
 /* ---------- Responsive ---------- */
 @media (max-width: 760px) {
   .product-detail { grid-template-columns: 1fr; }
-  nav.main-nav { display: none; }
+  .search-box { order: 3; width: 100%; margin-top: 10px; }
 }
 
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
   .card, .btn, .cat-pill { transition: none; }
 }
-/* ---------- Mobile menu ---------- */
 .mobile-menu-btn {
-  display: none; background: #fff; border: 2px solid var(--ink);
+  background: #fff; border: 2px solid var(--ink);
   border-radius: 8px; width: 42px; height: 42px; font-size: 20px;
   cursor: pointer; line-height: 1;
-}
-@media (max-width: 760px) {
-  .header-row { position: relative; }
-  .mobile-menu-btn { display: block; }
-  nav.main-nav {
-    display: none; position: absolute; top: 100%; left: 0; right: 0;
-    background: var(--paper); border-bottom: 2px solid var(--ink);
-    flex-direction: column; padding: 16px 24px; gap: 4px; z-index: 40;
-  }
-  nav.main-nav.open { display: flex; }
-  .search-box { order: 3; width: 100%; margin-top: 10px; }
 }
 
 /* Focus visibility */
