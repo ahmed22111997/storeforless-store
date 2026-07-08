@@ -2,6 +2,10 @@
   command = "node build.js"
   publish = "."
 
+[[edge_functions]]
+  path = "/product.html"
+  function = "product-meta"
+
 [[redirects]]
   from = "/product/*"
   to = "/product.html"
